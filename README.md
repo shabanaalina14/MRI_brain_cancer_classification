@@ -24,4 +24,20 @@ Outcome
 
 The trained model achieved promising results with good accuracy on the validation set. The visualization showed that the model learned effectively without significant overfitting. This project showcases my skills in image processing, deep learning, and model optimization, demonstrating my ability to handle multi-class image classification tasks effectivel
 
-https://github.com/shabanaalina14/MRI_brain_cancer_classification/tree/main
+git clone https://github.com/shabanaalina14/MRI_brain_cancer_classification/tree/main
+
+Contact For any questions or suggestions, please feel free to reach.
+
+Gmail: shabanaalina14@gmail.com
+
+GitHub Profile: shabanaalina14
+
+These metrics help determine the effectiveness of the model in classifying customers as eligible or ineligible for loans based on the given features.
+
+git clone https://github.com/shabanaalina14/BANKING-AND-FINANCE-DOMAIN-ETE-ML-
+
+Contact For any questions or suggestions, please feel free to reach.
+
+Gmail: shabanaalina14@gmail.com
+
+GitHub Profile: shabanaalina14
